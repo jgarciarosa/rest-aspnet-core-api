@@ -13,6 +13,16 @@ Projeto desenvolvido e disponibilizado para fins de consultas e estudos.
 - [MySQL](https://www.mysql.com/)
 
 
+## Pacotes
+
+- [Microsoft.EntityFrameworkCore](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
+ 
+- [Microsoft.EntityFrameworkCore.Tools](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools)
+  
+- [Microsoft.AspNetCore.Mvc.NewtonsoftJson](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/)
+
+- [Pomelo.EntityFrameworkCore.MySql](https://www.nuget.org/packages/Pomelo.EntityFrameworkCore.MySql)
+
 # Setup da aplicação (local)
 
 ## Pré-requisito
