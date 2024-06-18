@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Infrastructure.Data.Dtos;
+namespace Infrastructure.Data.Dtos.Person;
 
-public class ReadPersonDto
+public class UpdatePersonDto
 {
     [Required, StringLength(20)]
     public string? FirstName { get; set; }
